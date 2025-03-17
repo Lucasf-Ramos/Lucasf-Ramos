@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<samp><p align="center">I'm a Brazilian developer at the beginning of my career, but I've been programming games and applications for a few years. My main focus during this time has been on Unity, both 2D and 3D. Through these repositories, I would like to share the evolution of my codes and other cool stuff. Feel free to read and use all my codes that are public in your projects. I hope it can be of some help.</p></samp>
+<samp><p align="center">I'm a Brazilian developer at the beginning of my career, but I've been programming games and applications for a few years. My main focus during this time has been on Unity, both 2D and 3D. Through these repositories, I would like to share the evolution of my codes and other cool stuff. Feel free to read and use all my code that are public in your projects. I hope it can be of some help.</p></samp>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
